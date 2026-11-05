@@ -1,0 +1,10 @@
+- Better description
+- Quick overview of sol.retcode and sol.stats
+- (Maybe if quick) Compare runtime to assignment 2's newton method implementations.
+- Solving non linear systems example
+- Explain the importance of rootfinding in solving non linear systems.
+- (Maybe) Briefly discuss stakeholders
+- Question
+- Propose an experiment
+
+- Create a quick powerpoint summarizing notebook

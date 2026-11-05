@@ -10,29 +10,29 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Does the project have an AI contribution policy? | link |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |  https://github.com/SciML/NonlinearSolve.jl  |
+| Main/documentation website |  https://docs.sciml.ai/NonlinearSolve/stable/  |
+| Year project was started | 2020 |
+| Number of contributors in the past year | 48 |
+| Number of contributors in the lifetime of the project | 123 |
+| Number of distinct affiliations | ... |
+| Where do development discussions take place? | Zulip |
+| Typical number of emails/comments per week? | ...  |
+| Typical number of commits per week? | From 10/5/26-11/02/26 (4 weeks, 17 commits), there was an average of 4.25 commits per week  |
+| Typical commit size | Since 10/5/26, from 18 commits, the average commit size is 47.3 insertions, and 3.5 deletions |
+| How does the project accept contributions? | Pull Request |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Does the project have an AI contribution policy? | I could not find a specific policy, but commits occasionally include Claude as a contributor |
+| Are any legal/licensing steps required to contribute? | None at this time |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [x] I have installed the software
+- [x] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
@@ -44,6 +44,13 @@ otherwise have concerns about the appropriateness of the software.  If
 the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
+
+1.) Answer to typical commit size includes one more commit, from 11/3/26, than the answer to typical number of commits per week.
+
+2.) I am choosing not to run the test suite because it would take a long time.
+
+3.) I could not find anything for questions 6 and 8.
+
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
