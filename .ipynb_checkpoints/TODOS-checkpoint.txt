@@ -1,9 +1,3 @@
-- Better description
-- Solving non linear systems example
-- Explain the importance of rootfinding in solving non linear systems.
-- (Maybe) Briefly discuss stakeholders
-- Question
-- Propose an experiment
-- Rename variables so that the order in which cells are ran doesn't affect output
-
-- Create a quick powerpoint summarizing notebook
+- Make a powerpoint presentation if I have time
+- Add more words to the boring parts
+- delete this list
