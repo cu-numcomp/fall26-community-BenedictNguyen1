@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *NonlinearSolve.jl*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*NonlinearSolve.jl is an open-source, high-performance julia package for solving nonlinear systems of equations and rootfinding problems that began in 2020. It provides multiple methods for solving these problems such as SimpleNewtonRaphson for small scale computations, and LevenbergMarquardt for large-scale or computationally demanding systems. This library is targeted towards scientists and engineers requiring high-performance tools in order to solve non linear systems of equations requiring large computations.*
 
 ### Stats
 
